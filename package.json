@@ -1,0 +1,25 @@
+{
+  "name": "first-nextjs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marc-dantas/first-nextjs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marc-dantas/first-nextjs-app/issues"
+  },
+  "homepage": "https://github.com/marc-dantas/first-nextjs-app#readme",
+  "dependencies": {
+    "next": "^13.0.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
